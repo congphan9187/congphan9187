@@ -1,6 +1,14 @@
 <div align="center"><h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Phan Thanh Cong</h1></div>
-<div align="center">Data is more than just numbers – it is the key to unlocking new opportunities! <br>
+
+<!--<div align="center">Data is more than just numbers – it is the key to unlocking new opportunities! <br>
 I am passionate about exploring data and transforming numbers into meaningful stories.</div>
+-->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=%23C8BE25&size=17&center=true&vCenter=true&width=800&height=50&lines=Data+is+more+than+just+numbers+–+it+is+the+key+to+unlocking+new+opportunities!;I+am+passionate+about+exploring+data+and+transforming+numbers+into+meaningful+stories.">
+</p>
+
+
 
 
 # <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Contact me via:
