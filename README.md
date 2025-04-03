@@ -5,7 +5,7 @@ I am passionate about exploring data and transforming numbers into meaningful st
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=%23C8BE25&size=17&center=true&vCenter=true&width=800&height=50&lines=Data+is+more+than+just+numbers+–+it+is+the+key+to+unlocking+new+opportunities!;I+am+passionate+about+exploring+data+and+transforming+numbers+into+meaningful+stories.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=%23EEEEE0&size=17&center=true&vCenter=true&width=800&height=50&lines=Data+is+more+than+just+numbers+–+it+is+the+key+to+unlocking+new+opportunities!;I+am+passionate+about+exploring+data+and+transforming+numbers+into+meaningful+stories.">
 </p>
 
 
