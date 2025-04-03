@@ -4,6 +4,7 @@ I am passionate about exploring data and transforming numbers into meaningful st
 
 
 # 🌐 You can contact me via:
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Contact me
 📩 Email: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phanthanhcong982004@gmail.com) <br>
 💬 Chat: [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/congphan9187) <br>
 📲 Facebook: [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/cong.phan.662508) <br>
