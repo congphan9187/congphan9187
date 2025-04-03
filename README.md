@@ -30,7 +30,8 @@ I am passionate about exploring data and transforming numbers into meaningful st
 [![](https://visitcount.itsvg.in/api?id=congphan9187&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/congphan9187/congphan9187/main/dist/github-contribution-grid-snake.svg" alt="Snake Game">
+  <img src="https://raw.githubusercontent.com/congphan9187/congphan9187/output/snake.svg" alt="Snake animation">
 </p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
