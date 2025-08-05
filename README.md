@@ -20,7 +20,7 @@ I am passionate about exploring data and transforming numbers into meaningful st
 💬 Chat: [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/congphan9187) <br>
 📲 Facebook: [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/cong.phan.662508) <br>
 🧑‍💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ptcong9187/) <br>
-### Everything about me you can see in detail at 👉 [My Portfolio](https://sites.google.com/gm.uit.edu.vn/congportfolio)
+### Everything about me you can see in detail at 👉 [My Portfolio](https://sites.google.com/view/ptcong)
 <br>
 
 
